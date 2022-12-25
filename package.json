@@ -1,5 +1,5 @@
 {
-  "name": "chit-chat-app",
+  "name": "chatcord",
   "version": "1.0.0",
   "description": "Real time chat app with rooms",
   "main": "server.js",
@@ -7,17 +7,8 @@
     "start": "node server",
     "dev":"nodemon server"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/tanmayhedau/Chit-Chat-App.git"
-  },
-  "keywords": [],
-  "author": "Tanmay Hedau",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/tanmayhedau/Chit-Chat-App/issues"
-  },
-  "homepage": "https://github.com/tanmayhedau/Chit-Chat-App#readme",
+  "author": "subhadip shee",
+  "license": "MIT",
   "dependencies": {
     "express": "^4.18.2",
     "moment": "^2.29.4",
